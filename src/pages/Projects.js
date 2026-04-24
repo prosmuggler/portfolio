@@ -11,7 +11,7 @@ function Projects() {
       </div>
 
       <div className="project">
-        <h3>Project 2: Load detection model using ML computations</h3>
+        <h3>Project 2: Loan detection model using ML computations</h3>
       </div>
 
     </div>
